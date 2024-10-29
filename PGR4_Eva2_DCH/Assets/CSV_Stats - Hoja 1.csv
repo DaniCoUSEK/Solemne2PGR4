@@ -1,0 +1,10 @@
+ID,Chara1,Chara2,Chara3
+Att_stat,1000,1500,750
+Def_stat,800,600,1050
+Hp_stat,4000,3600,4400
+Spd_stat,112,120,98
+Crit_stat,40%,65%,15%
+Crit_Dmg_stat,150%,200%,100%
+Eff_stat,80%,20%,50%
+Eff_Res_stat,40%,20%,60%
+Dual_stat,5%,5%,5%

@@ -1,0 +1,10 @@
+ID,English,Spanish
+Att,Attack,Ataque
+Def,Defense,Defensa
+Hp,Health,Vida
+Spd,Speed,Velocidad
+Crit,Critical Hit Chance,Prob. de crítico
+Crit_Dmg,Critical Hit Damage,Daño de crítico
+Eff,Effectiveness,Eficacia
+Eff_Res,Effect Resistance,Resistencia de efectos
+Dual,Dual Attack Chance,Prob. de ataq. doble

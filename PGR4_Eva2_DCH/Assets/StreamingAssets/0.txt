@@ -1,0 +1,9 @@
+att = 100;
+def = 50;
+hp = 300;
+spd = 50;
+crit = 20%;
+crit_Dmg = 150%;
+eff = 60%;
+eff_Res = 30%;
+dual = 5%;
